@@ -42,10 +42,7 @@ const Blogs = () => {
           components useEffect() hook runs the side-effect after initial
           rendering, and on later renderings only if the name value changes.You
           can have multiple useEffects in your code and this is completely fine!
-          As hooks docs say, you should separate concerns. Multiple hooks rule
-          also applies to useState - you can have multiple useState in one
-          component to separate different part of the state, you don't have to
-          build one complicated state object
+           Multiple hooks rule also applies to useState - you can have multiple useState in one component to separate different part of the state, you don't have to build one complicated state object
         </p>
       </div>
     </div>
