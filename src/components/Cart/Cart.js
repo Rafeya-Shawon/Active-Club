@@ -102,7 +102,7 @@ const Cart = ({ cart }) => {
               className="bg-orange-400 text-white px-16 mt-3  py-2 rounded-xl hover:bg-yellow-500"
               onClick={notify}
             >
-              Task Completed!
+              Task Completed! 
             </button>
             <ToastContainer />
           </div>
