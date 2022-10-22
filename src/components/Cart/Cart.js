@@ -1,5 +1,6 @@
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import "./Cart.css"
 
 const Cart = ({ cart }) => {
   let exerciseTime = 0;
@@ -20,7 +21,7 @@ const Cart = ({ cart }) => {
   const notify = () => toast("Congrats You Are Done With Today's Workout!");
 
   return (
-    <div className="">
+    <div className="cart">
       <div className="">
         <div className="container mt-10">
           <div className="personal-info flex ml-2">
