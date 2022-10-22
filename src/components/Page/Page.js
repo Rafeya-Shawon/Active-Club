@@ -51,7 +51,7 @@ const Page = () => {
               </div>
             </div>
           </div>
-          <div className="info-container bg-white">
+          <div className="info-container bg-white sticky top-0">
             <Cart cart={cart}></Cart>
           </div>
         </div>

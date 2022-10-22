@@ -23,7 +23,7 @@ const Card = (props) => {
           <button
             onClick={() => handleAddToCart(props.card)}
             className="bg-orange-400 text-white mt-1 py-2
-           hover:bg-orange-100 w-full h-2/4 rounded-2xl"
+           hover:bg-amber-500 w-full h-2/4 rounded-2xl"
           >
             <p>Add Time</p>
           </button>
