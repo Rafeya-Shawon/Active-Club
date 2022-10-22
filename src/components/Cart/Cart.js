@@ -25,7 +25,7 @@ const Cart = ({ cart }) => {
       <div >
         <div className="container mt-10">
           <div className="personal-info flex ml-2">
-            <h3 className="text-xl ml-2 mt-2 font-bold">Rafeya Khandaker</h3>
+            <h3 className="text-xl ml-2 mt-2 font-bold">Rafeya Khandaker </h3>
           </div>
 
           <div className="my-info mt-8 bg-slate-300 ml-2 flex justify-center items-center gap-16  md:gap-4 lg:gap-6 h-20 rounded-lg">
@@ -44,7 +44,7 @@ const Cart = ({ cart }) => {
           </div>
 
           <h3 className="mt-6 text-2xl font-medium ml-2 text-left">
-            Add A Break
+            Add a Break
           </h3>
 
           <div className="break">
