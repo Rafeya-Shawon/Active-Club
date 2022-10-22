@@ -14,8 +14,7 @@ const Blogs = () => {
         <p className="my-3 text-xl m-3  w-10/12 text-orange-800">
           React is a JavaScript library. React allow developers to easily create
           fast user interfaces for websites and applications alike. The main
-          concept of React. js is virtual DOM.How does ReactJS work behind the
-          scenes? Image result for how does react work React goes through its
+          concept of React.js is virtual DOM. React goes through it's
           virtual DOM ,creates a list of those changes that need to be made to
           the actual DOM and then does it all in one single process.
         </p>
