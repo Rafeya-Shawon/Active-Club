@@ -22,7 +22,7 @@ const Cart = ({ cart }) => {
 
   return (
     <div className="cart">
-      <div className="">
+      <div >
         <div className="container mt-10">
           <div className="personal-info flex ml-2">
             <h3 className="text-xl ml-2 mt-2 font-bold">Rafeya Khandaker</h3>
